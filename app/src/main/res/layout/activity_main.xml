@@ -52,6 +52,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="80dp"
         android:ems="10"
+        android:hint="Add New Dress..."
         android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.503"
